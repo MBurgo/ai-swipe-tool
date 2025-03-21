@@ -15,6 +15,7 @@ st.title("📬 Burgo's 'Swipe and Fool' Tool")
 st.markdown("""
 <div style="background-color:#f0f2f6;padding:16px;border-radius:8px;margin-bottom:16px;">
 <h4>ℹ️ About This Tool</h4>
+<p>Have you ever received an email, or seen an ad, and thought, "Oooh, I know this ad is actually for dog food, but maybe we could do something similar"?</p>
 <p>This tool helps you adapt marketing assets from other industries or businesses into something that could work for The Motley Fool Australia.</p>
 <p><strong>Important:</strong> This is not a magic button that gives you a perfect email, ad, or landing page. Think of it as a <strong>conceptual transposer</strong> — it pulls across structure, tactics, and tone, then reworks them for our products and audience.</p>
 <p>What you’ll get is a <strong>starting point</strong> — a rewritten version in our voice, aimed at our readers. It might be rough. It might even miss the mark. But it should give you a workable shell or idea to refine further.</p>
